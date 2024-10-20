@@ -1,1 +1,1 @@
-# GeminiChatbot
+# AI Chatbot using Google GeminiAPI
